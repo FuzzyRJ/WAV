@@ -4,7 +4,7 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is a simple speech recontion software that will help with your day to day life.
 
 ## Getting Started
 
