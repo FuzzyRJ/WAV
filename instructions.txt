@@ -1,0 +1,53 @@
+Riley Hause
+4/4/2022
+This Program will listen to the commands that you say
+
+Keywords such as Dock, Open, Close, Google, save, and Repeat exist to help
+follow your commands
+
+Dock:
+    saying dock and then a left, right, upper left,
+    upper right, bottom left, bottom right, or commands like
+    minimize, restore, and maximize will allow you to move
+    the app you are currently on and or close it.
+
+	Try saying "dock upper right"
+	
+Open: 
+    saying open will allow you to open files or browsers: Try saying open chrome
+    you can also open your Hotbar keys with: "open Hotbar 1:10"
+    as well as your task view with: "open task view"
+
+	Try saying open chrome"
+
+	Things you can open: Task manager, tabs on browsers, task view, firefox,
+	chrome, edge, visual studio, word, excel, access, PowerPoint, hot bars,
+	file explorer, G drive, Schoology, game bar
+
+Close:
+    close is the opposite of open it will just
+    close the file or browser you asked to open.
+
+	Try saying "close chrome"
+
+	Things you can close: everything you can open, 
+	and the window you are currently on.
+
+Save:
+    This will allow you to save messages that you said to the computer.
+    you can save up to 10 messages on the computer, and you can have them read
+    at any time.
+	
+	Try saying "Hello, how are you", then say "save that"
+	To have it read what you said, say "read saves", or "read save one"
+
+Repeat:
+    This lets the computer repeat back to you what you said.
+	
+	To turn on say "Repeat"
+	To turn off say "Stop Repeating"
+
+Google:
+    This will let you use Google to search for something.
+	
+	Try saying; "Google, how tall is Mount Everest"
