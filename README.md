@@ -20,11 +20,7 @@ This is a simple speech recontion software that will help with your day to day l
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+https://www.dropbox.com/s/hu445v1wzj7g6n5/WAV_Main.zip?dl=0
 
 ## Authors
 
